@@ -1,3 +1,4 @@
+NAME:PRAVEEN SANTHALINGAM M
 # EX-16-LEFT-SHIFT-OPERATION
 ## AIM
 To write a C Program to perform the basic left shift operation for 44 integer number with 3 shifts.
@@ -11,8 +12,11 @@ To write a C Program to perform the basic left shift operation for 44 integer nu
 
 ## PROGRAM
 
+![image](https://github.com/user-attachments/assets/f2affef6-614a-486d-94b6-cdf8bab00e95)
+
 ## OUTPUT
 
+![image](https://github.com/user-attachments/assets/79ac7a5b-c203-4e59-9410-7eacedb59494)
 
 
 
@@ -48,9 +52,12 @@ Write a C Program to check whether the two numbers are equal or not using simple
 
 ## PROGRAM
 
+![image](https://github.com/user-attachments/assets/b79dfeee-0570-4383-9fbc-0feb9dde196b)
 
 ## OUTPUT
-           
+
+![image](https://github.com/user-attachments/assets/a705e07e-5d70-4dd3-90f3-b0291037ba5c)
+     
 ## RESULT
 
 Thus the program to check whether the two numbers are equal or not using simple if statement has been executed successfully
@@ -71,8 +78,11 @@ Write a C Program to convert the given string into lowercase.
 
 ## PROGRAM
 
+![image](https://github.com/user-attachments/assets/24fec8e6-59be-454e-9a87-feacfa9db86e)
+
 ## OUTPUT
 
+![image](https://github.com/user-attachments/assets/be247b00-62f7-456d-8de7-c2072d2d20ff)
 
 
 
@@ -96,8 +106,11 @@ Write a C Program to count the total number of words in a given string using do 
 
 ## PROGRAM
 
+![image](https://github.com/user-attachments/assets/05fe997a-de04-442a-a71e-92c6fb30c102)
+
 ## OUTPUT
 
+![image](https://github.com/user-attachments/assets/cc158faa-d95a-4fe0-89f1-33ad3a1d2eb7)
 
 
 
@@ -130,9 +143,11 @@ Step 8: End the program.
 
 ## PROGRAM
 
+![image](https://github.com/user-attachments/assets/0d1a05b6-45a9-46d1-bcee-424de116ea77)
 
 ## OUTPUT
  
+![image](https://github.com/user-attachments/assets/285e4b3e-d574-4c0d-8ca8-ea30acdec601)
 
 ## RESULT
 Thus the C Program to compare two strings without using strcmp() has been executed successfully.
